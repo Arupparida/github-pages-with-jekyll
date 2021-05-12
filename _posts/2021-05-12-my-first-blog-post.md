@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "learning with gitHub and exploring the github learning lab"
+date: 2021-05-12
 ---
 
 Just palying around to undersand how github works \
